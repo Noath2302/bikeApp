@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AWPjvAxuaEAY4xhPgvZ4bOOJbfMO0ZfORtGQVemvUSmIrQr6Ujl9q9VpORw9IQRFe8fr1mYcCRXJS42JJXhtGw==",
+  "success": true,
+  "projectFilePath": "E:\\MyWork\\test-ground\\testBike\\BestBikeApp\\BestBikeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noath\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+E:\MyWork\test-ground\testBike\BestBikeApp\pub\BestBikeApp.exe
+E:\MyWork\test-ground\testBike\BestBikeApp\pub\appsettings.Development.json
+E:\MyWork\test-ground\testBike\BestBikeApp\pub\appsettings.json
+E:\MyWork\test-ground\testBike\BestBikeApp\pub\BestBikeApp.dll
+E:\MyWork\test-ground\testBike\BestBikeApp\pub\BestBikeApp.deps.json
+E:\MyWork\test-ground\testBike\BestBikeApp\pub\BestBikeApp.runtimeconfig.json
+E:\MyWork\test-ground\testBike\BestBikeApp\pub\BestBikeApp.pdb
